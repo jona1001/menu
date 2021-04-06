@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
 import {HomeFillIcon, FileDirectoryIcon, PersonIcon, RepoIcon} from '@primer/octicons-react'
 
-alert('hola mundo');
+
 
 
 export default class Clientes extends Component {
